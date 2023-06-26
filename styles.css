@@ -21,6 +21,7 @@ body {
 .container {
     width: 60vw;
     margin-top: 10vh;
+    margin-bottom: 10vh;
 }
 
 .container > p {
