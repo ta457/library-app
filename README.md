@@ -1,4 +1,4 @@
 # library-app
-A small library app for practicing Javascript Object Constructors, created as part of TOP curriculum.
+A small library app, made to practice Javascript Object.
 
 [Live Page](https://ta457.github.io/library-app/)
